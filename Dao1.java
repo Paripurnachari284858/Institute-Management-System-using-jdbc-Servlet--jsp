@@ -18,7 +18,7 @@ public class Dao1
 	String driver="com.mysql.cj.jdbc.Driver";
 	String url="jdbc:mysql://localhost:3306/javadb";
 	String user="root";
-	String password="Paripurna@28";
+	String password="password";
 	Connection conn=null;
 	Statement s=null;
 	ResultSet rs=null;
